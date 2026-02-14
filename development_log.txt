@@ -4,3 +4,4 @@ Sat Feb 14 11:05:21 PM +0545 2026 - Add logic for calculating joint angles
 Sat Feb 14 11:05:23 PM +0545 2026 - Implement bicep curl counter
 Sat Feb 14 11:05:24 PM +0545 2026 - Add visual feedback for reps and stage
 Sat Feb 14 11:05:25 PM +0545 2026 - Refactor code into functions
+Sat Feb 14 11:05:26 PM +0545 2026 - Update README with usage instructions
