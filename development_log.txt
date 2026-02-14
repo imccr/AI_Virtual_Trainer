@@ -1,3 +1,4 @@
 Sat Feb 14 11:05:19 PM +0545 2026 - Add MediaPipe dependency
 Sat Feb 14 11:05:20 PM +0545 2026 - Implement basic pose estimation
 Sat Feb 14 11:05:21 PM +0545 2026 - Add logic for calculating joint angles
+Sat Feb 14 11:05:23 PM +0545 2026 - Implement bicep curl counter
