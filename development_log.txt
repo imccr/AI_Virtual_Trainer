@@ -16,3 +16,4 @@ Sat Feb 14 11:05:34 PM +0545 2026 - Add support for different window sizes
 Sat Feb 14 11:05:35 PM +0545 2026 - Refine detection confidence thresholds
 Sat Feb 14 11:05:36 PM +0545 2026 - Update documentation
 Sat Feb 14 11:05:37 PM +0545 2026 - Add license file
+Sat Feb 14 11:05:38 PM +0545 2026 - Prepare for release
