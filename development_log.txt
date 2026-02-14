@@ -11,3 +11,4 @@ Sat Feb 14 11:05:29 PM +0545 2026 - Add comments to the code
 Sat Feb 14 11:05:30 PM +0545 2026 - Improve UI with custom colors
 Sat Feb 14 11:05:31 PM +0545 2026 - Add error handling for camera access
 Sat Feb 14 11:05:32 PM +0545 2026 - Update requirements.txt
+Sat Feb 14 11:05:33 PM +0545 2026 - Clean up code styling
